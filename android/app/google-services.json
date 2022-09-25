@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663166627429",
+    "firebase_url": "https://qr-student-565e2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "qr-student-565e2",
+    "storage_bucket": "qr-student-565e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663166627429:android:af5a82b612d5d4151aa08c",
+        "android_client_info": {
+          "package_name": "com.example.qrstudent_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663166627429-j73sfoc9bodf5ssdh31ufrjk8jg0p0bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpzIjqlBQTjNHrPWzDOTg1s84eNwIG7U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663166627429-j73sfoc9bodf5ssdh31ufrjk8jg0p0bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
